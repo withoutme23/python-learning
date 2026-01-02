@@ -1,2 +1,4 @@
-# python-learning
-Learning Python basics and small projects
+# Python Learning
+
+Repozytorium do nauki podstaw Pythona.
+Pierwszy program: pobieranie danych od użytkownika i użycie instrukcji warunkowej.
